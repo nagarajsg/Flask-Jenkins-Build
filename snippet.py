@@ -38,7 +38,7 @@ def main():
 
     result = check_posted_data(data, operation)
     
-    print(f"The result of the check is {result}")
+    print(f"The result of the check after new update is {result}")
 
 
 if __name__ == "__main__":
